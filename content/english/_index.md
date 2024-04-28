@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Story-telling with Sustainable Tech Builders"
-  content: "Tikoly is the marketing agency enabling sustainable tech industrial leader, such as those from China, to tell their stories on-the-ground"
+  content: "Tikoly is the official DuoNB agency enabling sustainable tech industrial leader, such as those from China, to tell their stories on-the-ground"
   image: "/images/banner.png"
   button:
     enable: true
@@ -13,14 +13,12 @@ banner:
 features:
   - title: "What We Offer"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "Branding, content production and sales team coaching on sustainable tech and products, such as Direct Current home appliances, home batteries, or solar panels sets, including"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Copy-writing for product or tech data-sheets"
+      - "End consumers content design and production, such as leaf-lets"
+      - "Training kits design and production, such as tutorial videos"
+      - "Sales team coaching, remote or in-person (while in China)"
     button:
       enable: false
       label: "Get Started Now"
@@ -28,24 +26,23 @@ features:
 
   - title: "Learn to SHOW, do not TELL"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "The art of sustainable tech product selling lies in sales teams' ability to SHOW or DEMO, NOT TELLING people what they are, because"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Sustainable tech and products have always been contextual"
+      - "Showing is 10x more efficient than telling, such as maintaining a showroom for this very purpose"
+      - "Being specific before you're going abstract"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Check out these examples"
+      link: "https://sltconf.com"
 
-  - title: "SHOW to SELL"
+  - title: "You can't improve what you don't measure"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Once we're getting used to measure everything around sustainable tech, we'll be able to ENGINEER products that are TRULY sustainable, for example,"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "How can you decide which products are good if you can't measure their energy consumption"
+      - "Renewable energy is distributed by nature, hence we MUST measure every THING"
+      - "Measure, demo, show and SELL"
     button:
       enable: false
       label: ""

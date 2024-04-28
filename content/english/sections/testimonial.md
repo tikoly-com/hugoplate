@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "What Customers Are Saying"
-description: "Sales and service teams are empowered by Tikoly`s innovative approaches in data-driven story-telling about their products and services"
+description: "Sales and service teams are empowered by Tikoly's innovative approaches in data-driven story-telling about their products and services"
 
 # Testimonials
 testimonials:

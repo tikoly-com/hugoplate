@@ -31,7 +31,7 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Noto Sans SC:wght@400;600",
+      "primary": "Nunito Sans:wght@400;600",
       "primary_type": "sans-serif",
       "secondary": "Noto Sans:wght@500;700",
       "secondary_type": "sans-serif"
