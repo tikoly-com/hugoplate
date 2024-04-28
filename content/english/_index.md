@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Story-telling with Sustainable Tech Builders"
-  content: "Tikoly is the official DuoNB agency enabling sustainable tech industrial leader, such as those from China, to tell their stories on-the-ground"
+  content: "Tikoly is a founding member of [DuoNB](https://duonb.org) and the official agency for enabling leaders in sustainable tech industries, such as those from China, to tell their stories on-the-ground"
   image: "/images/banner.png"
   button:
     enable: true
@@ -15,7 +15,6 @@ features:
     image: "/images/service-1.png"
     content: "Branding, content production and sales team coaching on sustainable tech and products, such as Direct Current home appliances, home batteries, or solar panels sets, including"
     bulletpoints:
-      - "Copy-writing for product or tech data-sheets"
       - "End consumers content design and production, such as leaf-lets"
       - "Training kits design and production, such as tutorial videos"
       - "Sales team coaching, remote or in-person (while in China)"
