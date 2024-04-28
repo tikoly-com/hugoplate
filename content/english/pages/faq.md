@@ -1,9 +1,9 @@
 ---
-title: "Elements"
+title: "FAQ"
 # meta title
 meta_title: ""
 # meta description
-description: "This is meta description"
+description: "Frequently Asked Questions"
 # save as draft
 draft: false
 ---
