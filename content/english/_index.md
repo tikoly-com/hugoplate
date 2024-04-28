@@ -41,7 +41,7 @@ features:
     content: "Once we're getting used to measure everything around sustainable tech, we'll be able to ENGINEER products that are TRULY sustainable, for example,"
     bulletpoints:
       - "How can you decide which products are good if you can't measure their energy consumption"
-      - "Renewable energy is distributed by nature, hence we MUST measure every THING"
+      - "Renewable energy is deployed as distributed system by its nature, hence we MUST measure every THING"
       - "Measure, demo, show and SELL"
     button:
       enable: false

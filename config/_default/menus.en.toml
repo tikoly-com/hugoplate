@@ -16,6 +16,11 @@ name = "About"
 pageRef = "/about"
 weight = 3
 
+[[main]]
+name = "DuoNB"
+href = "https://duonb.org/"
+weight = 4
+
 #[[main]]
 #weight = 4
 #name = "Pages"
@@ -58,6 +63,11 @@ pageRef = "/faq"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-pageRef = "/privacy-policy"
+name = "DuoNB"
+href = "https://duonb.org"
 weight = 3
+
+[[footer]]
+name = "Privacy Policy"
+href = "/privacy-policy"
+weight = 4

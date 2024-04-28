@@ -6,4 +6,6 @@ image: "/images/avatar.png"
 draft: false
 ---
 
-Tikoly as an agency governed by TikolyDAO (DAO - Decentralized Autonomous Organization), with the KOLs as participating partners leading the campaigns, topics and channels for our client organizations.
+Tikoly is a service agency governed by TikolyDAO (DAO - Decentralized Autonomous Organization), with a small core team and a global network of KOLs as participating partners.
+
+> We keep designing and running campaigns around the sustainable themes for our client organizations.
