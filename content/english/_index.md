@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Tell us what you're building"
-    link: "https://github.com/chancefcc/tikoly.com"
+    link: "https://github.com//tikoly-com"
 
 # Features
 features:
