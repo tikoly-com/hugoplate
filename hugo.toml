@@ -2,7 +2,9 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "/"
 # Title of your website (required).
-title = "tikoly"
+title = "Tikoly | Story-telling with Sustainable Tech Builders"
+description = "Story-telling with Sustainable Tech Builders. Tikoly is a founding member of DuoNB and the official agency for enabling leaders in sustainable tech industries, such as those from China, to tell their stories on-the-ground."
+keywords = ["Web3", "DePIN", "accounting", "billing", "solution", "DuoNB", "tiko", "cli", "solar", "China", "renewable", "energy", "Direct Current", "sustainable", "SDG", "sustainability", "engineering", "home appliances", "supply chains"]
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
