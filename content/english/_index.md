@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Story-telling with Sustainable Tech Builders"
-  content: "Tikoly is a founding member of [DuoNB](https://duonb.org) and the official agency for enabling leaders in sustainable tech industries, such as those from China, to tell their stories on-the-ground"
+  content: "Tikoly is a founding member of [DuoNB](https://duonb.org) and its official content production agency."
   image: "/images/banner.png"
   button:
     enable: true
