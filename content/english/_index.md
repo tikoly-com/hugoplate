@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Story-telling with Sustainable Tech Builders"
+  title: "Story-telling with sustainable tech builders"
   content: "Tikoly is the marketing agency focusing on sustainable tech and Web3."
   image: "/images/banner.png"
   button:
