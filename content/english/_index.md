@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Story-telling with Sustainable Tech Builders"
-  content: "Tikoly is a marketing agency focusing on sustainable tech and Web3."
+  content: "Tikoly is the marketing agency focusing on sustainable tech and Web3."
   image: "/images/banner.png"
   button:
     enable: true
