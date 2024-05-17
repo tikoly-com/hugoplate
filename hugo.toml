@@ -2,8 +2,8 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "/"
 # Title of your website (required).
-title = "Tikoly | Story-telling with sustainable tech builders"
-description = "Tikoly is the marketing agency focusing on sustainable tech and Web3."
+title = "Tikoly | Conversations with sustainable tech and Web3 builders"
+description = "Tikoly is the agency focusing on sustainable tech and Web3."
 keywords = ["Web3", "DePIN", "accounting", "billing", "solution", "DuoNB", "tiko", "cli", "solar", "China", "renewable", "energy", "Direct Current", "sustainable", "SDG","ESG", "sustainability", "engineering", "home appliances", "supply chains", "green tech", "renewable energy", "green energy", "home appliances", "direct current", "optical networking"]
 # Your theme name
 theme = "hugoplate"
