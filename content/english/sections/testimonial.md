@@ -1,29 +1,29 @@
 ---
 enable: true
-title: "What Customers Are Saying"
-description: "Sales and service teams are empowered by Tikoly's innovative approaches in data-driven story-telling about their products and services"
+title: "What Partners Are Saying"
+description: "Tikoly grows by helping partners' tech and business growth."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Allen You"
+    designation: "Founder of DuoNB"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Chance Jiang and his team have been consistently contributed to the formation of DuoNB communities since I released the 1st draft design of DuoNB system in 2021. _tikoly_ team the leading team for communicating DuoNB narrative, value and tech systems."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "John Tay"
+    designation: "Founder of ChangeMaker (Malaysia)"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Chance Jiang and his team have been my key partner who's dedicated to grow our tech innovator networks across Malaysia and China. We're working together to inspire, connect, and educate young entreprenures on sustainable living tech, IoT and Web3."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Jason Allyne"
+    designation: "Founder of Reimagine Risks (Canada)"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Chance and his team, _tikoly_, has been instrumental in helping us to source innovative tech for our _PassivHaus_ sustainable housing solution for the growing demands of Canadian population and the world."
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
+  - name: "Oliver Wen"
+    designation: "Deputy Chair of GBATA"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Chance has been doing good jobs in helping GBATA members from Hong Kong and Macau, and connect them with Greater Bay Areas peers and resources."
 
 # don't create a separate page
 _build:

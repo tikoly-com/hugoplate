@@ -8,7 +8,7 @@ weight = 1
 
 [[main]]
 name = "FAQ"
-pageRef = "/faq"
+pageRef = "/tikolyfaq"
 weight = 2
 
 [[main]]
@@ -54,7 +54,7 @@ weight = 1
 
 [[footer]]
 name = "FAQ"
-pageRef = "/faq"
+pageRef = "/tikolyfaq"
 weight = 2
 
 [[footer]]

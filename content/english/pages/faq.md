@@ -1,9 +1,9 @@
 ---
-title: "FAQ"
+title: "Elements"
 # meta title
 meta_title: ""
 # meta description
-description: "Frequently Asked Questions"
+description: "This is meta description"
 # save as draft
 draft: false
 ---
@@ -228,9 +228,9 @@ print s
 
 <hr>
 
-### Youtube video
+### About DuoNB framework and solution
 
-{{< youtube ResipmZmpDU >}}
+{{< youtube XpTVB7v1NBI >}}
 
 <hr>
 
