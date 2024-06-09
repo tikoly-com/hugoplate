@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "Conversations with sustainable tech builders"
-  content: "Tikoly markets and designs sustainable tech and Web3 solutions"
+  title: "connect, inspire and build"
+  content: "Tikoly markets and designs sustainable tech and Web3 solutions with builders."
   image: "/images/duonb-diagram.png"
   button:
     enable: true
