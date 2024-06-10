@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Contact tikoly team(s)"
+description: "Contact tikoly team(s)"
 draft: false
 ---

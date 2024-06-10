@@ -2,9 +2,36 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "/"
 # Title of your website (required).
-title = "Tikoly | Conversations with sustainable tech and Web3 builders"
-description = "Tikoly is the agency focusing on sustainable tech and Web3."
-keywords = ["Web3", "DePIN", "accounting", "billing", "solution", "DuoNB", "tiko", "cli", "solar", "China", "renewable", "energy", "Direct Current", "sustainable", "SDG","ESG", "sustainability", "engineering", "home appliances", "supply chains", "green tech", "renewable energy", "green energy", "home appliances", "direct current", "optical networking"]
+title = "Tikoly | connect, inspire and build"
+description = "Tikoly markets and designs sustainable tech and Web3 solutions with builders."
+keywords = [
+    "Web3",
+    "DePIN",
+    "accounting",
+    "billing",
+    "solution",
+    "DuoNB",
+    "tiko",
+    "cli",
+    "solar",
+    "China",
+    "renewable",
+    "energy",
+    "Direct Current",
+    "sustainable",
+    "SDG",
+    "ESG",
+    "sustainability",
+    "engineering",
+    "home appliances",
+    "supply chains",
+    "green tech",
+    "renewable energy",
+    "green energy",
+    "home appliances",
+    "direct current",
+    "optical networking",
+]
 # Your theme name
 theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
