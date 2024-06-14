@@ -8,12 +8,12 @@ testimonials:
   - name: "Allen You"
     designation: "Founder of DuoNB"
     avatar: "/images/avatar-sm.png"
-    content: "Chance Jiang and his team have been consistently contributed to the formation of DuoNB communities since I released the 1st draft design of DuoNB system in 2021. _tikoly_ team the leading team for communicating DuoNB narrative, value and tech systems."
+    content: "Chance Jiang has been consistently contributed to the formation of DuoNB communities since I released the 1st draft design of DuoNB system in 2021. _tikoly_ team led by _Chance_ has been assisting me in framing the DuoNB narrative, value and tech systems."
 
   - name: "John Tay"
     designation: "Founder of ChangeMaker (Malaysia)"
     avatar: "/images/avatar-sm.png"
-    content: "Chance Jiang and his team have been my key partner who's dedicated to grow our tech innovator networks across Malaysia and China. We're working together to inspire, connect, and educate young entreprenures on sustainable living tech, IoT and Web3."
+    content: "_Chance_ and his team have been my key partner to grow our innovator networks across Malaysia and China. We're working together to inspire, connect, and educate young entreprenures on sustainable living tech, IoT and Web3."
 
   - name: "Jason Allyne"
     designation: "Founder of Reimagine Risks (Canada)"
