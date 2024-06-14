@@ -18,7 +18,7 @@ testimonials:
   - name: "Jason Allyne"
     designation: "Founder of Reimagine Risks (Canada)"
     avatar: "/images/avatar-sm.png"
-    content: "Chance and his team, _tikoly_, has been instrumental in helping us to source innovative tech for our _PassivHaus_ sustainable housing solution for the growing demands of Canadian population and the world."
+    content: "Chance and his team, _tikoly_, has been instrumental in helping us to source innovative tech for our _PassivHaus_ sustainable housing solution, to meet the growing demands for housing in Canada."
 
   - name: "Oliver Wen"
     designation: "Deputy Chair of GBATA"
