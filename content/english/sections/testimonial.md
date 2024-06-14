@@ -23,7 +23,7 @@ testimonials:
   - name: "Oliver Wen"
     designation: "Deputy Chair of GBATA"
     avatar: "/images/avatar-sm.png"
-    content: "Chance has been doing good jobs in helping GBATA members from Hong Kong and Macau, and connect them with Greater Bay Areas peers and resources."
+    content: "Chance has been doing good jobs in helping GBATA members from Hong Kong and Macau, and connect them with Greater Bay Areas peers and resources. I'm seeing _tikoly_ team generating even more social impact led by _Chance Jiang_."
 
 # don't create a separate page
 _build:
