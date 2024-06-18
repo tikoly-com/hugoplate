@@ -7,14 +7,19 @@ pageRef = "/"
 weight = 1
 
 [[main]]
+name = "Build"
+pageRef = "/build"
+weight = 2
+
+[[main]]
 name = "FAQ"
 pageRef = "/tikolyfaq"
-weight = 2
+weight = 3
 
 [[main]]
 name = "About"
 pageRef = "/about"
-weight = 3
+weight = 4
 
 #[[main]]
 #weight = 4

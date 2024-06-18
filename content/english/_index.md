@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Tell us what you're building"
-    link: "https://github.com//tikoly-com"
+    link: "/build/"
 
 # Features
 features:
