@@ -10,11 +10,11 @@ draft: false
 
 {{< toc >}}
 
-_Build in Public_ is the preferred collaboration style of _tikoly_, whereby we keep our communication channels as open as possible, so that we can invite and involve current and future clients, partners or followers.
+**tikoly** promotes _Build in Public_ collaboration, whereby we keep our communication channels as open as possible, so that we can invite and involve current and future clients, partners or followers.
 
-This page documents everything we do categorized as _Build in Public_ activities, such as events, podcasts, or office hours, all facilitated by _tikoly_ team(s).
+You can track all tikoly's _Build in Public_ activities on this page, such as events, podcasts, or office hours, all facilitated by _tikoly_ team(s).
 
-**Follow our official channels and track the latest about how _tikoly_ connect, inspire and build tech and services with the world.**
+**Follow our official channels and track the latest about how _tikoly_ connect and inspire builders, on sustainable tech and web3 dev collaboration.**
 
 <hr>
 
@@ -64,7 +64,9 @@ Partners who could share on topics of interests,
 * _How to sell not-yet-certified appliances, via Self-Insurance_, with Jason Alleyne, March 9, 2024
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-58jOiFjrRY?si=T5uie4Vzy3b1q1lT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### DuoNB framework and solution
+### From tikoly Partners
+
+#### DuoNB framework and solutions for next gen sustainable homes
 
 * DuoNB Framework, a Primer (English)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XpTVB7v1NBI?si=R-OFDINUJXAqTGiC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
