@@ -25,11 +25,15 @@ _tikoly_ team(s) currently run the following official channels,
 * WeChat (Live-stream/视频号) handle，**tikoly**
   * Open your WeChat, go to `Discover > Channels`, and hit the search buttom on top right, and key in `tikoly` to find it
 
-## Propose a topic and recorded session
+## Request a Show
 
-> You can plan a call with current host Chance Jiang, at [https://calendly.com/bookchance](https://calendly.com/bookchance), to discuss ideas for a topical session and record it.
+Are you a product builder with an interesting product and its stories to tell?
 
-## Upcoming (Backlog)
+Youc an request a show to demo, show-case or talk about your gig, with our team members who're also builders like yourself.
+
+You can plan a call with current host Chance Jiang, at [https://calendly.com/bookchance](https://calendly.com/bookchance), to discuss ideas for a topical session and record it.
+
+## Upcoming Shows (Backlog)
 
 ### Office Hours
 
@@ -52,7 +56,7 @@ Partners who could share on topics of interests,
 
 <hr>
 
-## Past (Published)
+## Live Shows (Published)
 
 * _Why we don't talk about DePIN_, Chance Jiang (in Chinese), June 14, 2024
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gyzQv6U1vfg?si=ybYGVzIhZIaPeeow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
