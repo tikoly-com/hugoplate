@@ -58,14 +58,19 @@ Partners who could share on topics of interests,
 
 ## Live Shows (Published)
 
-* _Why we don't talk about DePIN_, Chance Jiang (in Chinese), June 14, 2024
+### Why we don't talk about DePIN, by _Chance Jiang_
+* in Chinese, June 14, 2024
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gyzQv6U1vfg?si=ybYGVzIhZIaPeeow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* _What does tikoly do and why (Chinese)_, June 13, 2024
+### What does tikoly do and why (Chinese), by _Javen Zheng_
+* hosted by _Chance Jiang_, June 13, 2024
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L_Uloi-nY_o?si=5ij3XrQ9f3B-m9yQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-* _How to sell not-yet-certified appliances, via Self-Insurance_, with Jason Alleyne, March 9, 2024
+### How to sell not-yet-certified appliances, via Self-Insurance, by _Jason Alleyne_
+* hosted by _Chance Jiang_, March 9, 2024
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-58jOiFjrRY?si=T5uie4Vzy3b1q1lT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### From tikoly Partners
