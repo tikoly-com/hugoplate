@@ -59,9 +59,3 @@ As a startup, _tikoly_ has been the leading or founding members of tech consorti
 * [Greater Bay Area Hong Kong & Macau Talents Association / 大湾区港澳人才协会](https://gbatalents.org/)
 * [ChangeMaker, Malaysia](https://changemaker.asia/)
 * Pangoo University / 盘古太学 (Shunde)
-
-<hr>
-
-### DuoNB framework and solution
-
-{{< youtube XpTVB7v1NBI >}}

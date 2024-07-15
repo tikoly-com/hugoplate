@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "connect, inspire and build"
-  content: "Tikoly markets and designs sustainable tech and Web3 solutions with builders."
+  content: "Tikoly markets and designs sustainable tech and Web3 solutions with builders. [Subscribe to our Call Tikoly blog as email newsletters](https://call.tikoly.com/)."
   image: "/images/duonb-diagram.png"
   button:
     enable: true
