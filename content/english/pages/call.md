@@ -1,9 +1,9 @@
 ---
-title: "Build with tikoly"
+title: "Call tikoly"
 # meta title
-meta_title: "Build with tikoly"
+meta_title: "Call tikoly to share what you're building"
 # meta description
-description: "Build with tikoly"
+description: "Call tikoly to share what you're building"
 # save as draft
 draft: false
 ---
@@ -21,11 +21,11 @@ You can track all tikoly's _Build in Public_ activities on this page, such as ev
 ## Channels
 
 _tikoly_ team(s) currently run the following official channels,
-* [Youtube channel handle: **@tikolycom**](https://www.youtube.com/@tikolycom)
-* WeChat (Live-stream/视频号) handle，**tikoly**
+* [Tikoly Youtube **@calltikoly**](https://www.youtube.com/@calltikoly)
+* Tikoly WeChat (Live-stream/视频号) channel: **tikoly**
   * Open your WeChat, go to `Discover > Channels`, and hit the search buttom on top right, and key in `tikoly` to find it
 
-## Request a Show
+## Call us for a recording
 
 Are you a product builder with an interesting product and its stories to tell?
 
@@ -58,10 +58,7 @@ Partners who could share on topics of interests,
 
 ## Live Shows (Published)
 
-### Why we don't talk about DePIN, by _Chance Jiang_
-* in Chinese, June 14, 2024
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyzQv6U1vfg?si=ybYGVzIhZIaPeeow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+> [Call Tikoly @Youtube](https://www.youtube.com/@calltikoly)
 
 ### What does tikoly do and why (Chinese), by _Javen Zheng_
 * hosted by _Chance Jiang_, June 13, 2024

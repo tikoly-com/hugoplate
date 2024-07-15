@@ -7,8 +7,8 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "Build"
-pageRef = "/build"
+name = "Call"
+pageRef = "/call"
 weight = 2
 
 [[main]]

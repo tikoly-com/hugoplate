@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Tell us what you're building"
-    link: "/build/"
+    link: "/call/"
 
 # Features
 features:
