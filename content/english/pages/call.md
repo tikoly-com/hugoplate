@@ -25,13 +25,11 @@ _tikoly_ team(s) currently run the following official channels,
 * Tikoly WeChat (Live-stream/视频号) channel: **tikoly**
   * Open your WeChat, go to `Discover > Channels`, and hit the search buttom on top right, and key in `tikoly` to find it
 
-## Call us for a recording
+## Call tikoly for a recording
 
-Are you a product builder with an interesting product and its stories to tell?
+As product and solution builders ourselves, we're also keen to share YOUR idea, product or its back-stage stories. This is how, we belive, more innovation shall happen.
 
-Youc an request a show to demo, show-case or talk about your gig, with our team members who're also builders like yourself.
-
-You can plan a call with current host Chance Jiang, at [https://calendly.com/bookchance](https://calendly.com/bookchance), to discuss ideas for a topical session and record it.
+Book a call with our Host-in-Chief _Chance Jiang_, at [https://calendly.com/bookchance](https://calendly.com/bookchance).
 
 ## Upcoming Shows (Backlog)
 
@@ -40,7 +38,9 @@ You can plan a call with current host Chance Jiang, at [https://calendly.com/boo
 Team members ready for office hours,
 * Chance J., Javen Z., Ryan Sy, ZoomQuiet, Alex Choi
 
-Chance is hosting ad-hoc office hours at tikoly's WeChat (Live-stream/视频号)，**tikoly**. We'll try to make it consistently on fixed weekly basis.
+Chance is hosting ad-hoc office hours as either
+* Youtube live show at [@calltikoly](https://www.youtube.com/@calltikoly)
+* WeChat live show at its Live-Channel/视频号, via this handle，**tikoly**.
 
 ### Podcast / Live-stream Recording
 
@@ -56,9 +56,9 @@ Partners who could share on topics of interests,
 
 <hr>
 
-## Live Shows (Published)
+## Published Shows
 
-> [Call Tikoly @Youtube](https://www.youtube.com/@calltikoly)
+> See all videos at [Youtube @calltikoly channel](https://www.youtube.com/@calltikoly)
 
 ### What does tikoly do and why (Chinese), by _Javen Zheng_
 * hosted by _Chance Jiang_, June 13, 2024
