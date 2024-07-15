@@ -8,6 +8,11 @@ description: "Call tikoly to share what you're building"
 draft: false
 ---
 
+button:
+  enable: true
+  label: "Tell us what you're building"
+  link: "/call/"
+
 {{< toc >}}
 
 **tikoly** promotes _Build in Public_ collaboration, whereby we keep our communication channels as open as possible, so that we can invite and involve current and future clients, partners or followers.
