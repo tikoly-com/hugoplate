@@ -8,11 +8,6 @@ description: "Call tikoly to share what you're building"
 draft: false
 ---
 
-button:
-  enable: true
-  label: "Tell us what you're building"
-  link: "/call/"
-
 {{< toc >}}
 
 **tikoly** promotes _Build in Public_ collaboration, whereby we keep our communication channels as open as possible, so that we can invite and involve current and future clients, partners or followers.
@@ -34,14 +29,14 @@ _tikoly_ team(s) currently run the following official channels,
 
 As product and solution builders ourselves, we're also keen to share YOUR idea, product or its back-stage stories. This is how, we belive, more innovation shall happen.
 
-Book a call with our Host-in-Chief _Chance Jiang_, at [https://calendly.com/bookchance](https://calendly.com/bookchance).
+Book a call with our Host-in-Chief _Chance Jiang_, at [https://calendly.com/bookchance](https://calendly.com/bookchance), or call land-line, +86-20-37239620 (09:00-17:00, GMT+8, during week days).
 
 ## Upcoming Shows (Backlog)
 
 ### Office Hours
 
 Team members ready for office hours,
-* Chance J., Javen Z., Ryan Sy, ZoomQuiet, Alex Choi
+* Chance J., Javen Z., Ryan Sy
 
 Chance is hosting ad-hoc office hours as either
 * Youtube live show at [@calltikoly](https://www.youtube.com/@calltikoly)
@@ -61,7 +56,7 @@ Partners who could share on topics of interests,
 
 <hr>
 
-## Published Shows
+## Published Shows (Examples)
 
 > See all videos at [Youtube @calltikoly channel](https://www.youtube.com/@calltikoly)
 
