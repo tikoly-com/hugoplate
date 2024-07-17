@@ -35,12 +35,12 @@ features:
       label: "Check out these examples"
       link: "https://sltconf.com"
 
-  - title: "You can't improve what you don't measure"
+  - title: "What gets measured gets managed"
     image: "/images/service-3.png"
-    content: "Once we're getting used to measure everything around sustainable tech, we'll be able to ENGINEER products that are TRULY sustainable, for example,"
+    content: "Once we're getting used to measure everything around sustainable tech and web3 user actions, we'll be able to ENGINEER products that are TRULY sustainable and innovative, for example,"
     bulletpoints:
       - "How can you decide which products are good if you can't measure their energy consumption"
-      - "Renewable energy is deployed as distributed system by its nature, hence we MUST measure every THING"
+      - "Renewable energy is deployed as distributed system by default, hence we MUST measure EVERYTHING"
       - "Measure, demo, show and SELL"
     button:
       enable: false
