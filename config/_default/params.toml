@@ -38,9 +38,9 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Book Call"
+label = "Book Calls"
 #link = "contact"
-link = "https://calendly.com/bookchance"
+link = "https://call.tikoly.com/bookcalls"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
