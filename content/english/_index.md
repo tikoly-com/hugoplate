@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Tell us what you're building"
-    link: "/call/"
+    link: "https://call.tikoly.com/bookcalls"
 
 # Features
 features:
