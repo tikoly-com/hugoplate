@@ -2,12 +2,12 @@
 # Banner
 banner:
   title: "connect, inspire and build"
-  content: "Tikoly markets and designs sustainable tech and Web3 solutions with builders. [Subscribe to our Call Tikoly blog as email newsletters](https://call.tikoly.com/)."
+  content: "tikolyDAO designs and markets sustainable tech and Web3 solutions with builders. [Subscribe to our Call Tikoly blog as email newsletters](https://call.tikoly.com/)."
   image: "/images/duonb-diagram.png"
   button:
     enable: true
-    label: "Tell us what you're building"
-    link: "https://call.tikoly.com/bookcalls"
+    label: "Join our conversation and connect"
+    link: "https://call.tikoly.com/"
 
 # Features
 features:
