@@ -3,7 +3,7 @@ title: "FAQ"
 # meta title
 meta_title: "Frequently Asked Questions about Tikoly"
 # meta description
-description: "Frequently Asked Questions about Tikoly"
+description: "Frequently Asked Questions about tikolyDAO"
 # save as draft
 draft: false
 ---
@@ -18,8 +18,7 @@ Frequently Asked Questions about _tikoly_ service and team(s).
 
 In 2018, **tikoly** was registered as a trademark, together with its Chinese name, 提客利, by Chance Jiang. He wanted to take his tech design and consulting business to more geo-markets.
 
-But _tikoly_ as a trademark has been idle until Chance Jiang found it a great fit for naming his international facing service for the consulting, design, and training businesses he's doing with his partners, around sustainable tech and Web3.
-
+But _tikoly_ as a trademark has been idle until Chance Jiang found it a great fit for naming his international facing service for the consulting, design, and training businesses he's doing with his partners.
 <hr>
 
 ## Public channels of _tikoly_
