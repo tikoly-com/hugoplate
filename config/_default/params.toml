@@ -40,7 +40,7 @@ preloader = "" # use jpg, png, svg or gif format.
 enable = true
 label = "Book Calls"
 #link = "contact"
-link = "https://call.tikoly.com/bookcalls"
+link = "https://breakpoints.tikoly.com/join"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
