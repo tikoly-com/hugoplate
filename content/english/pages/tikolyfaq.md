@@ -28,7 +28,7 @@ But _tikoly_ as a trademark has been idle until Chance Jiang found it a great fi
 
 <hr>
 
-## Who are _tikoly_ core members?
+## Who are _tikolyDAO_ members?
 
 * DAO Members
   * Chance Jiang
@@ -36,13 +36,9 @@ But _tikoly_ as a trademark has been idle until Chance Jiang found it a great fi
   * Javen Zheng
   * ZoomQuiet
   * Atman An
-* DAO Members (pending for vested interests)
-  * Matias Wen
+  * Artem Constantinov
 
-* Engineering team
-  * CTO, _ZoomQuiet_
-  * Co-CTO, _Atman An_
-  * Product Director, _Chance Jiang_
+* Contract team members
   * Firmware/hardware dev, _Zhang Yuanpai_
   * Full-stack dev, _Poyohoo_
 * HW Production
