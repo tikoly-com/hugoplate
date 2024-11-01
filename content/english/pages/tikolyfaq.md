@@ -23,7 +23,7 @@ But _tikoly_ as a trademark has been idle until Chance Jiang found it a great fi
 
 ## Public channels of _tikoly_
 
-* Youtube channel: [@tikolycom](https://www.youtube.com/@tikolycom)
+* Youtube channel: [@tikolycom](https://www.youtube.com/@tikolybreakpoints)
 * WeChat Live / 微信视频号: @tikoly
 
 <hr>
