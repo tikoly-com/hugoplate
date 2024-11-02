@@ -1,7 +1,7 @@
 ---
 enable: true
 title: "What Partners Are Saying"
-description: "Tikoly grows by helping partners' tech and business growth."
+description: "tikolyDAO grows by helping partners' tech and business growth."
 
 # Testimonials
 testimonials:
