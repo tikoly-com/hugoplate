@@ -2,11 +2,11 @@
 # Banner
 banner:
   title: "connect, inspire and build"
-  content: "tikolyDAO designs and markets sustainable tech, Web3 and AI solutions with builders. [Subscribe to Breakpoints](https://breakpoints.tikoly.com/)."
+  content: "tikolyDAO designs and markets sustainable tech, Web3 and AI solutions with builders"
   image: "/images/duonb-diagram.png"
   button:
     enable: true
-    label: "Join the Breakpoints converstions"
+    label: "Join the converstions with Breakpoints"
     link: "https://breakpoints.tikoly.com/"
 
 # Features
@@ -25,10 +25,10 @@ features:
 
   - title: "SHOW, Don't TELL"
     image: "/images/service-2.png"
-    content: "The art of selling tech products lies in sales teams' ability to SHOW or DEMO, NOT TELLING people what they are, because"
+    content: "The art of selling tech products lies in our ability to SHOW, instead of TELLING what our products do, because"
     bulletpoints:
       - "Tech and products have always been contextual"
-      - "Showing is 10x more efficient than telling, such as maintaining a showroom for this very purpose"
+      - "Showing is 10x more efficient than telling, such as building a showroom"
       - "Being specific before you're going abstract"
     button:
       enable: true
