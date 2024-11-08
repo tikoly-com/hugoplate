@@ -2,7 +2,7 @@
   "colors": {
     "default": {
       "theme_color": {
-        "primary": "#121212",
+        "primary": "#006241",
         "body": "#fff",
         "border": "#eaeaea",
         "theme_light": "#f6f6f6",
@@ -16,7 +16,7 @@
     },
     "darkmode": {
       "theme_color": {
-        "primary": "#fff",
+        "primary": "#006241",
         "body": "#1c1c1c",
         "border": "#3E3E3E",
         "theme_light": "#222222",
@@ -31,9 +31,9 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Nunito Sans:wght@400;600",
+      "primary": "Noto Sans:wght@400;600",
       "primary_type": "sans-serif",
-      "secondary": "Noto Sans:wght@500;700",
+      "secondary": "Nunito Sans:wght@500;700",
       "secondary_type": "sans-serif"
     },
     "font_size": {

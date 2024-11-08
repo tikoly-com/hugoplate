@@ -6,13 +6,13 @@ banner:
   image: "/images/duonb-diagram.png"
   button:
     enable: true
-    label: "Join the converstions with Breakpoints"
+    label: "Join Breakpoints Conversations"
     link: "https://breakpoints.tikoly.com/"
 
 # Features
 features:
   - title: "Leading Paradigm Shifts"
-    image: "/images/service-1.png"
+    image: "/images/paradigm-shift.png"
     content: "Whether it be crypto, blockchains, sustainable tech, or Artificial Intelligence, tikolyDAO members only work with the top minds in these fields to lead paradigm shifts."
     bulletpoints:
       - "Crypto will create the largest one time shift in wealth in the history of the internet"
@@ -24,7 +24,7 @@ features:
       link: "https://breakpoints.tikoly.com/"
 
   - title: "SHOW, Don't TELL"
-    image: "/images/service-2.png"
+    image: "/images/show-only.png"
     content: "The art of selling tech products lies in our ability to SHOW, instead of TELLING what our products do, because"
     bulletpoints:
       - "Tech and products have always been contextual"
@@ -36,7 +36,7 @@ features:
       link: "https://www.youtube.com/@DuoNBHQ"
 
   - title: "Measure and Build"
-    image: "/images/service-3.png"
+    image: "/images/measure-everything.png"
     content: "Once we're getting used to measure everything around sustainable tech, AI and Web3, we'll be able to ENGINEER products that are TRULY sustainable and innovative, for example,"
     bulletpoints:
       - "How can you decide which products are good if you can't measure their energy consumption"
