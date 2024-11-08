@@ -6,7 +6,7 @@ banner:
   image: "/images/duonb-diagram.png"
   button:
     enable: true
-    label: "Join Breakpoints Conversations"
+    label: "Join Breakpoints Conversation"
     link: "https://breakpoints.tikoly.com/"
 
 # Features

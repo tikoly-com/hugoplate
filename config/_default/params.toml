@@ -63,8 +63,8 @@ content = "This site is under frequent update and NOT yet ready for service."
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
+keywords = ["tikoly", "tikolyDAO", "DeAI", "blockchain", "programmable money", "sustainable", "tech", "LLM", "China", "Direct Current", "home system", "home battery", "solar", "appliances"]
+description = "tikolyDAO designs and markets sustainable tech, Web3 and AI solutions with builders"
 author = "zeon.studio"
 image = "images/og-image.png"
 
