@@ -63,9 +63,39 @@ content = "This site is under frequent update and NOT yet ready for service."
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["tikoly", "tikolyDAO", "DeAI", "blockchain", "programmable money", "sustainable", "tech", "LLM", "China", "Direct Current", "home system", "home battery", "solar", "appliances"]
+keywords = [
+    "Web3",
+    "Artificial Intelligence",
+    "AI",
+    "DeAI",
+    "DePIN",
+    "accounting",
+    "billing",
+    "solution",
+    "DuoNB",
+    "tiko",
+    "cli",
+    "solar",
+    "China",
+    "renewable",
+    "energy",
+    "Direct Current",
+    "sustainable",
+    "SDG",
+    "ESG",
+    "sustainability",
+    "engineering",
+    "home appliances",
+    "supply chains",
+    "green tech",
+    "renewable energy",
+    "green energy",
+    "home appliances",
+    "direct current",
+    "optical networking"
+  ]
 description = "tikolyDAO designs and markets sustainable tech, Web3 and AI solutions with builders"
-author = "zeon.studio"
+author = "tikolyDAO"
 image = "images/og-image.png"
 
 
