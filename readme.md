@@ -26,6 +26,11 @@
   </a>
 </p>
 
+## How it's deployed
+
+1. Setup Cloudflare Pages and integrate it with this repo as instructed
+2. Test deploy on CF dashboard
+
 ## 🎁 What's Included
 
 We have included almost everything you need to start your Hugo project. Let's see what's included in this template:
