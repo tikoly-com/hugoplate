@@ -1,4 +1,4 @@
-#################### default parameters ################################
+#################### default parameters ############################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
@@ -56,7 +56,7 @@ show_categories = true
 # announcement
 # announcement module: https://github.com/gethugothemes/hugo-modules/tree/master/components/announcement
 [announcement]
-enable = true
+enable = false
 expire_days = 7
 content = "This site is NOT yet ready for public engagement."
 
@@ -96,6 +96,7 @@ keywords = [
 ]
 description = "tikolyDAO designs and markets sustainable tech, Web3 and AI solutions with builders"
 author = "tikolyDAO"
+twitter = "breakpointslive"
 image = "images/og-image.png"
 
 
@@ -115,6 +116,10 @@ enable = false
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
+
+# diagrams
+[mermaid]
+js_url = 'https://cdn.jsdelivr.net/npm/mermaid@latest/dist/mermaid.esm.min.mjs'
 
 ######################## sidebar widgets #########################
 [widgets]

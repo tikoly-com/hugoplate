@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "connect, inspire and build"
+  title: "Innovate sustainable tech"
   content: "tikolyDAO designs and markets sustainable tech solutions with builders"
   image: "/images/duonb-diagram.png"
   button:
