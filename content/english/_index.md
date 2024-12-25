@@ -6,7 +6,7 @@ banner:
   image: "/images/duonb-diagram.png"
   button:
     enable: true
-    label: "Join Breakpoints.live"
+    label: "Join the conversations"
     link: "https://breakpoints.live/"
 
 # Features
@@ -20,8 +20,8 @@ features:
       - "Sales team coaching, remote or in-person (while in China)"
     button:
       enable: true
-      label: "Subscribe to Breakpoints"
-      link: "https://breakpoints.tikoly.com/"
+      label: "Subscribe to newsletter"
+      link: "https://breakpoints.live/"
 
   - title: "SHOW, Don't TELL"
     image: "/images/show-only.png"
