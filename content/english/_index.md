@@ -2,12 +2,12 @@
 # Banner
 banner:
   title: "connect, inspire and build"
-  content: "tikolyDAO designs and markets sustainable tech, Web3 and AI solutions with builders"
+  content: "tikolyDAO designs and markets sustainable tech solutions with builders"
   image: "/images/duonb-diagram.png"
   button:
     enable: true
-    label: "Join Breakpoints Conversation"
-    link: "https://breakpoints.tikoly.com/"
+    label: "Join Breakpoints.live"
+    link: "https://breakpoints.live/"
 
 # Features
 features:

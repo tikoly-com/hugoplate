@@ -38,9 +38,9 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "Book Calls"
+label = "Join & Earn"
 #link = "contact"
-link = "https://breakpoints.tikoly.com/join"
+link = "https://breakpoints.live/join"
 
 # search
 # search module: https://github.com/gethugothemes/hugo-modules/tree/master/search
@@ -58,42 +58,42 @@ show_categories = true
 [announcement]
 enable = true
 expire_days = 7
-content = "This site is under frequent update and NOT yet ready for service."
+content = "This site is NOT yet ready for public engagement."
 
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = [
-    "Web3",
-    "Artificial Intelligence",
-    "AI",
-    "DeAI",
-    "DePIN",
-    "accounting",
-    "billing",
-    "solution",
-    "DuoNB",
-    "tiko",
-    "cli",
-    "solar",
-    "China",
-    "renewable",
-    "energy",
-    "Direct Current",
-    "sustainable",
-    "SDG",
-    "ESG",
-    "sustainability",
-    "engineering",
-    "home appliances",
-    "supply chains",
-    "green tech",
-    "renewable energy",
-    "green energy",
-    "home appliances",
-    "direct current",
-    "optical networking"
-  ]
+  "Web3",
+  "Artificial Intelligence",
+  "AI",
+  "DeAI",
+  "DePIN",
+  "accounting",
+  "billing",
+  "solution",
+  "DuoNB",
+  "tiko",
+  "cli",
+  "solar",
+  "China",
+  "renewable",
+  "energy",
+  "Direct Current",
+  "sustainable",
+  "SDG",
+  "ESG",
+  "sustainability",
+  "engineering",
+  "home appliances",
+  "supply chains",
+  "green tech",
+  "renewable energy",
+  "green energy",
+  "home appliances",
+  "direct current",
+  "optical networking",
+]
 description = "tikolyDAO designs and markets sustainable tech, Web3 and AI solutions with builders"
 author = "tikolyDAO"
 image = "images/og-image.png"

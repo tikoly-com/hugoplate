@@ -2,38 +2,38 @@
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL = "/"
 # Title of your website (required).
-title = "tikoly | connect, inspire and build"
-description = "tikolyDAO designs, consults and markets sustainable tech and Web3 solutions with builders."
+title = "tikoly | innovate sustainable tech"
+description = "tikolyDAO designs, consults and markets sustainable tech with builders."
 keywords = [
-    "Web3",
-    "Artificial Intelligence",
-    "AI",
-    "DeAI",
-    "DePIN",
-    "accounting",
-    "billing",
-    "solution",
-    "DuoNB",
-    "tiko",
-    "cli",
-    "solar",
-    "China",
-    "renewable",
-    "energy",
-    "Direct Current",
-    "sustainable",
-    "SDG",
-    "ESG",
-    "sustainability",
-    "engineering",
-    "home appliances",
-    "supply chains",
-    "green tech",
-    "renewable energy",
-    "green energy",
-    "home appliances",
-    "direct current",
-    "optical networking"
+  "Web3",
+  "Artificial Intelligence",
+  "AI",
+  "DeAI",
+  "DePIN",
+  "accounting",
+  "billing",
+  "solution",
+  "DuoNB",
+  "tiko",
+  "cli",
+  "solar",
+  "China",
+  "renewable",
+  "energy",
+  "Direct Current",
+  "sustainable",
+  "SDG",
+  "ESG",
+  "sustainability",
+  "engineering",
+  "home appliances",
+  "supply chains",
+  "green tech",
+  "renewable energy",
+  "green energy",
+  "home appliances",
+  "direct current",
+  "optical networking",
 ]
 
 # Your theme name
@@ -41,7 +41,8 @@ theme = "hugoplate"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "Asia/Hong_Kong"
 # post pagination
-paginate = 2 # see https://gohugo.io/extras/pagination/
+# paginate = 2 # see https://gohugo.io/extras/pagination/
+pagination.pagerSize = 2
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # disable language
