@@ -1,4 +1,4 @@
-<h1 align="center">Tikoly landing site based on Hugo + Tailwind CSS Starter and Boilerplate</h1>
+<h1 align="center">tikoly.com landing site based on Hugo + Tailwind CSS Starter and Boilerplate</h1>
 
 <p align="center">Hugoplate is a free starter template built with Hugo, and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time.</p>
 
