@@ -1,13 +1,13 @@
 ---
 # Banner
 banner:
-  title: "Innovate sustainable tech"
-  content: "tikolyDAO designs and markets sustainable tech solutions with builders"
+  title: "Innovate sustainable data and  energy networks"
+  content: "tikoly designs and implement solutions for global clients to enable sustainable data and renewable energy networks"
   image: "/images/duonb-diagram.png"
   button:
     enable: true
-    label: "Join the conversations"
-    link: "https://breakpoints.live/"
+    label: "Join the conversations with builders"
+    link: "https://breakpoints.live/join"
 
 # Features
 features:
